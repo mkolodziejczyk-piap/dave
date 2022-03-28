@@ -29,5 +29,5 @@ repositories:
     version: master
   uuv_simulator:
     type: git
-    url: git@github.com:field-robotics-lab/uuv_simulator
-    version: master
+    url: git@github.com:mkolodziejczyk-piap/uuv_simulator
+    version: mk
